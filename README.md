@@ -12,7 +12,7 @@ An intelligent web-based application for automatic blood cell classification usi
 
 | Role            | Name                    |
 | --------------- | ----------------------- |
-| **Team Leader** | Mta Praveen Kumar       |
+| **Team Leader** | Mota Praveen Kumar       |
 | **Team Member** | Mattam Praveen Kumar    |
 | **Team Member** | Nimmagadda Mohan Babu   |
 | **Team Member** | Paligala Sasi kanth     |
@@ -249,3 +249,4 @@ Developed under SmartBridge Long Internship Program 2025.
 
 **Last Updated:** February 17, 2026
 **Status:** Active Development ✅
+
